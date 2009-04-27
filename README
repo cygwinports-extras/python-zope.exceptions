@@ -3,15 +3,15 @@ python-zope.exceptions
 Zope modular symbol exceptions library
 
 Runtime requirements:
-  python-2.5.4-1
-  python-setuptools-0.6c9-1
-  python-zope.interface-3.5.0-1
-  python-zope.testing-3.7.1-1  (recommended)
+  python-2.5.4-10
+  python-setuptools-0.6c9-10
+  python-zope.interface-3.5.1-1
+  python-zope.testing-3.7.3-1  (recommended)
 
 Build requirements:
-  cygport-0.4.3-1
-  python-2.5.4-1
-  python-setuptools-0.6c9-1
+  cygport-0.9.6-1
+  python-2.5.4-10
+  python-setuptools-0.6c9-10
 
 Canonical website:
   http://cheeseshop.python.org/pypi/zope.exceptions
@@ -63,24 +63,15 @@ Files included in the binary package:
   /usr/lib/python2.5/site-packages/zope/exceptions/tests/test_exceptionformatter.py
   /usr/lib/python2.5/site-packages/zope/exceptions/tests/test_exceptionformatter.pyc
   /usr/lib/python2.5/site-packages/zope/exceptions/tests/test_exceptionformatter.pyo
-  /usr/share/doc/python-zope.exceptions-3.5.2/Changes.txt
-  /usr/share/doc/python-zope.exceptions-3.5.2/README.txt
+  /usr/share/doc/python-zope.exceptions/Changes.txt
+  /usr/share/doc/python-zope.exceptions/README.txt
 
 ------------------
 
 Port Notes:
 
------ version 3.5.2-1 -----
-Version bump.
-
------ version 3.4.0-1 -----
-Version bump.
-
------ version 3.3.99.73107-1 -----
-Version bump, built for python-2.5.
-
------ version 3.2.0.2-1 -----
-Initial release for Cygwin.
+----- version 3.5.2-10 -----
+Initial release for Cygwin 1.7.
 
 
 Cygwin port maintained by:

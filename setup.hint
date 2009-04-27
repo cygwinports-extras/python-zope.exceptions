@@ -1,4 +1,4 @@
 category: Python
-requires: cygwin python python-zope.interface
+requires: python python-setuptools python-zope.interface
 sdesc: "Zope modular exceptions library"
 ldesc: "Zope modular exceptions library"
